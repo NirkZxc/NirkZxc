@@ -78,7 +78,7 @@ const nirk = {
 | Project | Description | Language |
 |:---|:---|:---:|
 | [aeconv](https://github.com/nirkzxc/aeconv) | Extensible file conversion tool | Rust |
-
+| [SoundCloud Desktop](https://github.com/NirkZxc/SoundCloud-Desktop) |	Desktop client experiment	| Rust / Tauri
 
 More projects coming soon.
 
