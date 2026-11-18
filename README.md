@@ -107,35 +107,37 @@ More projects coming soon.
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%202%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 76 Bytes Used in GitHub's Storage 
+> 📦 77 Bytes Used in GitHub's Storage 
  > 
-> 🏆 8 Contributions in the Year 2026
+> 🏆 11 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 2 Public Repositories 
+> 📜 3 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
 🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                3 commits           ████████████░░░░░░░░░░░░░   50.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  3 commits           ████████████░░░░░░░░░░░░░   50.00 % 
+🌆 Daytime                3 commits           █████████░░░░░░░░░░░░░░░░   37.50 % 
+🌃 Evening                1 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+🌙 Night                  4 commits           ████████████░░░░░░░░░░░░░   50.00 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   3 commits           ████████████░░░░░░░░░░░░░   50.00 % 
-Tuesday                  3 commits           ████████████░░░░░░░░░░░░░   50.00 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Monday                   3 commits           █████████░░░░░░░░░░░░░░░░   37.50 % 
+Tuesday                  3 commits           █████████░░░░░░░░░░░░░░░░   37.50 % 
+Wednesday                1 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Thursday                 1 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -172,7 +174,7 @@ My Website               18 mins             █░░░░░░░░░░�
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     1 repo              █████████████████████████   100.00 % 
+Rust                     2 repos             █████████████████████████   100.00 % 
 ```
 
 
@@ -182,7 +184,7 @@ Rust                     1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/NirkZxc/NirkZxc/main/assets/bar_graph.png)
 
 
- Last Updated on 18/11/2026 05:36:08 UTC
+ Last Updated on 18/11/2026 21:17:13 UTC
 <!--END_SECTION:waka-->
 
 ## 🧠 Currently Exploring
