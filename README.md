@@ -107,13 +107,11 @@ More projects coming soon.
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 66 Bytes Used in GitHub's Storage 
+> 📦 76 Bytes Used in GitHub's Storage 
  > 
 > 🏆 8 Contributions in the Year 2026
  > 
@@ -150,13 +148,25 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     2 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Python                   2 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
+TOML                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Markdown                 53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+C#                       38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              8 hrs 36 mins       ███████████████████████░░   92.84 % 
+Codex CLI                33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+PyCharm                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+WebStorm                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+CLion                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+SoundCloud-Desktop       3 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   36.15 % 
+autovideo                2 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
+aeconv                   2 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
+SteamAchievementManager-744 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+My Website               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -172,7 +182,7 @@ Rust                     1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/NirkZxc/NirkZxc/main/assets/bar_graph.png)
 
 
- Last Updated on 17/11/2026 11:07:32 UTC
+ Last Updated on 18/11/2026 05:36:08 UTC
 <!--END_SECTION:waka-->
 
 ## 🧠 Currently Exploring
