@@ -150,25 +150,25 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   6 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   33.30 % 
-C#                       2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-Markdown                 2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-Other                    1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-RGBDS Assembly           1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Python                   6 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   36.32 % 
+Markdown                 1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Other                    1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+C#                       1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+RGBDS Assembly           1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
 
 🔥 Editors: 
-Claude Code              18 hrs 48 mins      ████████████████████████░   97.16 % 
-Copilot CLI              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-Notepad++                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-Sublime Text             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-PyCharm                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Claude Code              17 hrs 29 mins      ████████████████████████░   94.48 % 
+Sublime Text             22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Copilot CLI              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Codex CLI                15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Notepad++                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 🐱‍💻 Projects: 
-autovideo-velora         3 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
-public-proxy-monitor     3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-SteamAchievementManager-73 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-ntos                     2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-My Website               2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+autovideo-velora         3 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
+public-proxy-monitor     3 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+SteamAchievementManager-72 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+ntos                     2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+My Website               1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -185,7 +185,7 @@ Kotlin                   1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NirkZxc/NirkZxc/main/assets/bar_graph.png)
 
 
- Last Updated on 24/11/2026 07:58:29 UTC
+ Last Updated on 25/11/2026 06:36:12 UTC
 <!--END_SECTION:waka-->
 
 ## 🧠 Currently Exploring
