@@ -107,13 +107,13 @@ More projects coming soon.
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 847 Bytes Used in GitHub's Storage 
+> 📦 848 Bytes Used in GitHub's Storage 
  > 
 > 🏆 14 Contributions in the Year 2026
  > 
@@ -150,25 +150,25 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   6 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   36.32 % 
-Markdown                 1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-Other                    1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-C#                       1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-RGBDS Assembly           1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+Python                   9 hrs 15 mins       ████████████░░░░░░░░░░░░░   47.30 % 
+Markdown                 2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Other                    1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+RGBDS Assembly           1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Rust                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 
 🔥 Editors: 
-Claude Code              17 hrs 29 mins      ████████████████████████░   94.48 % 
-Sublime Text             22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-Copilot CLI              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-Codex CLI                15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-Notepad++                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Claude Code              18 hrs 17 mins      ███████████████████████░░   93.40 % 
+Sublime Text             58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+Codex CLI                15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Copilot CLI              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Notepad++                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-autovideo-velora         3 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
-public-proxy-monitor     3 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-SteamAchievementManager-72 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-ntos                     2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-My Website               1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+autovideo-velora         3 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+public-proxy-monitor     3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+ntos                     2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+My Website               1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+result111                1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -185,7 +185,7 @@ Kotlin                   1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NirkZxc/NirkZxc/main/assets/bar_graph.png)
 
 
- Last Updated on 25/11/2026 06:36:12 UTC
+ Last Updated on 26/11/2026 06:27:40 UTC
 <!--END_SECTION:waka-->
 
 ## 🧠 Currently Exploring
